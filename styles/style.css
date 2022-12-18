@@ -121,9 +121,9 @@ footer a {
         url(../images/bg-pattern-bottom-desktop.svg);
     background-position: top left, bottom right;
     background-repeat: no-repeat;
-    background-origin: content-box, content-box;
+    background-origin: border-box, padding-box;
     background-size: max(400px, 40%);
-    background-clip: padding-box;
+    background-clip: border-box;
 
     max-width: 108rem;
     /* min-height: 100vh; */

@@ -21,13 +21,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](.design/screenshot.png)
+![](./design/screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/desify/social-proof-section)
+- Live Site URL: [Add live site URL here](https://desify.github.io/social-proof-section/)
 
 
 ### Built with
